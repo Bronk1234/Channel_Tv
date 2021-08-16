@@ -1,0 +1,501 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="CCTV Garasi" tvg-logo="" group-title="CCTV",CCTV Garasi
+rtsp://admin:admin@192.168.0.7:554/mode=real&idc=1&ids=1
+#EXTINF:-1 tvg-id="ch00000000000000001620" tvg-name="Mozaik Channel" tvg-logo="" group-title="USEETV",Mozaik Channel
+rtp://@239.1.2.223:9268
+#EXTINF:-1 tvg-id="ch00000000000000001685" tvg-name="CINEMA 01" tvg-logo="" group-title="USEETV",CINEMA 01
+rtp://@239.1.1.109:8628
+#EXTINF:-1 tvg-id="ch00000000000000001686" tvg-name="CINEMA 02" tvg-logo="" group-title="USEETV",CINEMA 02
+rtp://@239.1.2.208:9202
+#EXTINF:-1 tvg-id="ch00000000000000001692" tvg-name="CINEMA  03" tvg-logo="" group-title="USEETV",CINEMA  03
+rtp://@239.1.1.9:8028
+#EXTINF:-1 tvg-id="ch00000000000000001694" tvg-name="CINEMA 04" tvg-logo="" group-title="USEETV",CINEMA 04
+rtp://@239.1.1.10:8034
+#EXTINF:-1 tvg-id="ch00000000000000001696" tvg-name="CINEMA  05" tvg-logo="" group-title="USEETV",CINEMA  05
+rtp://@239.1.2.31:8160
+#EXTINF:-1 tvg-id="ch00000000000000001700" tvg-name="CINEMA  06" tvg-logo="" group-title="USEETV",CINEMA  06
+rtp://@239.1.2.33:8172
+#EXTINF:-1 tvg-id="ch00000000000000001462" tvg-name="Ruang Trampil" tvg-logo="" group-title="USEETV",Ruang Trampil
+rtp://@239.1.1.126:8730
+#EXTINF:-1 tvg-id="ch00000000000000001480" tvg-name="Usee Sport" tvg-logo="" group-title="USEETV",Usee Sport
+rtp://@239.1.2.42:8194
+#EXTINF:-1 tvg-id="ch00000000000000001613" tvg-name="Usee Sports 2" tvg-logo="" group-title="USEETV",Usee Sports 2
+rtp://@239.1.2.215:9220
+#EXTINF:-1 tvg-id="ch00000000000000001502" tvg-name="SEA TODAY" tvg-logo="" group-title="USEETV",SEA TODAY
+rtp://@239.1.2.68:8384
+#EXTINF:-1 tvg-id="ch00000000000000001388" tvg-name="USee Prime" tvg-logo="" group-title="USEETV",USee Prime
+rtp://@239.1.1.216:9270
+#EXTINF:-1 tvg-id="ch00000000000000001363" tvg-name="USee Photo" tvg-logo="" group-title="USEETV",USee Photo
+rtp://@239.1.1.251:9498
+#EXTINF:-1 tvg-id="ch00000000000000001483" tvg-name="Usee Today" tvg-logo="" group-title="USEETV",Usee Today
+rtp://@239.1.2.50:8274
+#EXTINF:-1 tvg-id="ch00000000000000001673" tvg-name="IndiHome Shopping" tvg-logo="" group-title="USEETV",IndiHome Shopping
+rtp://@239.1.2.98:9514
+#EXTINF:-1 tvg-id="ch10122416433554962067" tvg-name="TVRI" tvg-logo="" group-title="Local Channel",TVRI
+rtp://@239.1.1.37:8196
+#EXTINF:-1 tvg-id="ch10122414254641305113" tvg-name="Metro TV" tvg-logo="" group-title="Local Channel",Metro TV
+rtp://@239.1.1.19:8088
+#EXTINF:-1 tvg-id="ch00000000000000001268" tvg-name="CNN Indonesia" tvg-logo="" group-title="Local Channel",CNN Indonesia
+rtp://@239.1.1.241:9362
+#EXTINF:-1 tvg-id="ch10122415544836939457" tvg-name="TV One" tvg-logo="" group-title="Local Channel",TV One
+rtp://@239.1.1.31:8160
+#EXTINF:-1 tvg-id="ch10122415491148697136" tvg-name="Trans TV" tvg-logo="" group-title="Local Channel",Trans TV
+rtp://@239.1.1.27:8136
+#EXTINF:-1 tvg-id="ch10122415505151219616" tvg-name="Trans 7" tvg-logo="" group-title="Local Channel",Trans 7
+rtp://@239.1.1.29:8148
+#EXTINF:-1 tvg-id="ch00000000000000000977" tvg-name="Lejel Home Shopping Live" tvg-logo="" group-title="Local Channel",Lejel Home Shopping Live
+rtp://@239.1.2.3:7992
+#EXTINF:-1 tvg-id="ch10122415021951755244" tvg-name="SCTV" tvg-logo="" group-title="Local Channel",SCTV
+rtp://@239.1.1.21:8100
+#EXTINF:-1 tvg-id="ch10122414023598507625" tvg-name="ANTV" tvg-logo="" group-title="Local Channel",ANTV
+rtp://@239.1.1.15:8064
+#EXTINF:-1 tvg-id="ch10122414165586153749" tvg-name="Indosiar" tvg-logo="" group-title="Local Channel",Indosiar
+rtp://@239.1.1.17:8076
+#EXTINF:-1 tvg-id="ch00000000000000001397" tvg-name="MSHOP SIGNATURE" tvg-logo="" group-title="Local Channel",MSHOP SIGNATURE
+rtp://@239.1.1.36:8190
+#EXTINF:-1 tvg-id="ch00000000000000001135" tvg-name="Net TV" tvg-logo="" group-title="Local Channel",Net TV
+rtp://@239.1.1.119:8688
+#EXTINF:-1 tvg-id="ch10122314361453667427" tvg-name="Lejel Home Shopping Regular" tvg-logo="" group-title="Local Channel",Lejel Home Shopping Regular
+rtp://@239.1.1.3:7992
+#EXTINF:-1 tvg-id="ch11091616203267433252" tvg-name="Kompas TV" tvg-logo="" group-title="Local Channel",Kompas TV
+rtp://@239.1.1.197:9156
+#EXTINF:-1 tvg-id="ch00000000000000000787" tvg-name="Berita Satu" tvg-logo="" group-title="Local Channel",Berita Satu
+rtp://@239.1.1.183:9072
+#EXTINF:-1 tvg-id="ch11031215220351247239" tvg-name="Jak Tv" tvg-logo="" group-title="Local Channel",Jak Tv
+rtp://@239.1.1.107:8616
+#EXTINF:-1 tvg-id="ch00000000000000001485" tvg-name="MSHOP SUPER SALE" tvg-logo="" group-title="Local Channel",MSHOP SUPER SALE
+rtp://@239.1.2.54:8298
+#EXTINF:-1 tvg-id="ch11022118310889841569" tvg-name="RTV" tvg-logo="" group-title="Local Channel",RTV
+rtp://@239.1.1.69:8388
+#EXTINF:-1 tvg-id="ch00000000000000001607" tvg-name="IDX" tvg-logo="" group-title="Local Channel",IDX
+rtp://@239.1.2.248:9398
+#EXTINF:-1 tvg-id="ch00000000000000001293" tvg-name="Daai TV" tvg-logo="" group-title="Local Channel",Daai TV
+rtp://@239.1.1.179:9048
+#EXTINF:-1 tvg-id="ch00000000000000001668" tvg-name="ATV" tvg-logo="" group-title="Local Channel",ATV
+rtp://@239.1.2.88:8308
+#EXTINF:-1 tvg-id="ch00000000000000001365" tvg-name="Bali TV" tvg-logo="" group-title="Local Channel",Bali TV
+rtp://@239.1.1.72:8406
+#EXTINF:-1 tvg-id="ch00000000000000001364" tvg-name="JTV Surabaya" tvg-logo="" group-title="Local Channel",JTV Surabaya
+rtp://@239.1.1.6:8010
+#EXTINF:-1 tvg-id="ch00000000000000001375" tvg-name="Antara TV" tvg-logo="" group-title="Local Channel",Antara TV
+rtp://@239.1.1.128:9218
+#EXTINF:-1 tvg-id="ch10122815032799436534" tvg-name="TV Edukasi" tvg-logo="" group-title="Local Channel",TV Edukasi
+rtp://@239.1.1.39:8208
+#EXTINF:-1 tvg-id="ch00000000000000001681" tvg-name="Nusantara TV" tvg-logo="" group-title="Local Channel",Nusantara TV
+rtp://@239.1.2.102:9522
+#EXTINF:-1 tvg-id="ch00000000000000001995" tvg-name="iNews" tvg-logo="" group-title="Local Channel",iNews
+rtp://@239.1.1.212:8967
+#EXTINF:-1 tvg-id="ch00000000000000001505" tvg-name="RRI NET" tvg-logo="" group-title="Local Channel",RRI NET
+rtp://@239.1.2.74:8420
+#EXTINF:-1 tvg-id="ch00000000000000001507" tvg-name="JiTV" tvg-logo="" group-title="Local Channel",JiTV
+rtp://@239.1.1.238:9400
+#EXTINF:-1 tvg-id="ch00000000000000001575" tvg-name="Jowo" tvg-logo="" group-title="Local Channel",Jowo
+rtp://@239.1.2.6:8000
+#EXTINF:-1 tvg-id="ch12022916470682700912" tvg-name="National Geographic" tvg-logo="" group-title="KNOWLEDGE",National Geographic
+rtp://@239.1.1.169:8988
+#EXTINF:-1 tvg-id="ch12022916450254625849" tvg-name="National Geographic Wild" tvg-logo="" group-title="KNOWLEDGE",National Geographic Wild
+rtp://@239.1.1.35:8184
+#EXTINF:-1 tvg-id="ch11022118095078605648" tvg-name="CrimeInvestigations" tvg-logo="" group-title="KNOWLEDGE",CrimeInvestigations
+rtp://@239.1.1.59:8328
+#EXTINF:-1 tvg-id="ch00000000000000001222" tvg-name="CGTN Documentary" tvg-logo="" group-title="KNOWLEDGE",CGTN Documentary
+rtp://@239.1.1.121:8700
+#EXTINF:-1 tvg-id="ch11022118062567644963" tvg-name="History Channel" tvg-logo="" group-title="KNOWLEDGE",History Channel
+rtp://@239.1.1.57:8316
+#EXTINF:-1 tvg-id="ch00000000000000001333" tvg-name="Panda TV" tvg-logo="" group-title="KNOWLEDGE",Panda TV
+rtp://@239.1.1.208:9502
+#EXTINF:-1 tvg-id="ch00000000000000001469" tvg-name="Discovery Channel" tvg-logo="" group-title="KNOWLEDGE",Discovery Channel
+rtp://@239.1.2.30:8154
+#EXTINF:-1 tvg-id="ch00000000000000001671" tvg-name="Lingua" tvg-logo="" group-title="KNOWLEDGE",Lingua
+rtp://@239.1.2.90:9500
+#EXTINF:-1 tvg-id="ch11042911234153414223" tvg-name="Disney Channel" tvg-logo="" group-title="KIDS",Disney Channel
+rtp://@239.1.1.45:8244
+#EXTINF:-1 tvg-id="ch11042911241079672956" tvg-name="Disney Junior" tvg-logo="" group-title="KIDS",Disney Junior
+rtp://@239.1.1.47:8256
+#EXTINF:-1 tvg-id="ch11040816094271961193" tvg-name="Da Vinci Learning" tvg-logo="" group-title="KIDS",Da Vinci Learning
+rtp://@239.1.1.99:8568
+#EXTINF:-1 tvg-id="ch11021121450039803975" tvg-name="Nickelodeon" tvg-logo="" group-title="KIDS",Nickelodeon
+rtp://@239.1.1.41:8220
+#EXTINF:-1 tvg-id="ch11070412425684190691" tvg-name="Nick JR" tvg-logo="" group-title="KIDS",Nick JR
+rtp://@239.1.1.159:8928
+#EXTINF:-1 tvg-id="ch11042918323040648170" tvg-name="Cartoon Network" tvg-logo="" group-title="KIDS",Cartoon Network
+rtp://@239.1.1.123:8712
+#EXTINF:-1 tvg-id="ch11022219025368388547" tvg-name="Boomerang" tvg-logo="" group-title="KIDS",Boomerang
+rtp://@239.1.1.73:8412
+#EXTINF:-1 tvg-id="ch00000000000000001306" tvg-name="DreamWorks" tvg-logo="" group-title="KIDS",DreamWorks
+rtp://@239.1.1.139:8808
+#EXTINF:-1 tvg-id="ch00000000000000001308" tvg-name="BABY FIRST" tvg-logo="" group-title="KIDS",BABY FIRST
+rtp://@239.1.1.157:8916
+#EXTINF:-1 tvg-id="ch00000000000000000755" tvg-name="Dunia Anak" tvg-logo="" group-title="KIDS",Dunia Anak
+rtp://@239.1.1.7:8016
+#EXTINF:-1 tvg-id="ch00000000000000001672" tvg-name="MY KIDZ" tvg-logo="" group-title="KIDS",MY KIDZ
+rtp://@239.1.1.254:9338
+#EXTINF:-1 tvg-id="ch00000000000000001400" tvg-name="Horee Channel" tvg-logo="" group-title="KIDS",Horee Channel
+rtp://@239.1.1.68:8382
+#EXTINF:-1 tvg-id="ch00000000000000001457" tvg-name="AFN" tvg-logo="" group-title="LIFESTYLE",AFN
+rtp://@239.1.2.12:8046
+#EXTINF:-1 tvg-id="ch00000000000000001234" tvg-name="Eat and Go" tvg-logo="" group-title="LIFESTYLE",Eat and Go
+rtp://@239.1.1.229:9350
+#EXTINF:-1 tvg-id="ch11022217201373049861" tvg-name="Fashion TV" tvg-logo="" group-title="LIFESTYLE",Fashion TV
+rtp://@239.1.1.79:8448
+#EXTINF:-1 tvg-id="ch12022916461378189756" tvg-name="Nat Geo People" tvg-logo="" group-title="LIFESTYLE",Nat Geo People
+rtp://@239.1.1.67:8376
+#EXTINF:-1 tvg-id="ch10122318140086597017" tvg-name="MTV Live" tvg-logo="" group-title="LIFESTYLE",MTV Live
+rtp://@239.1.1.5:8004
+#EXTINF:-1 tvg-id="ch12022916480318680648" tvg-name="Channel V" tvg-logo="" group-title="LIFESTYLE",Channel V
+rtp://@239.1.1.173:9012
+#EXTINF:-1 tvg-id="ch00000000000000001314" tvg-name="PRAMBORS" tvg-logo="" group-title="LIFESTYLE",PRAMBORS
+rtp://@239.1.1.227:9336
+#EXTINF:-1 tvg-id="ch00000000000000001618" tvg-name="i Konser" tvg-logo="" group-title="LIFESTYLE",i Konser
+rtp://@239.1.2.222:9256
+#EXTINF:-1 tvg-id="ch00000000000000001658" tvg-name="HGTV" tvg-logo="" group-title="Gen Entertainment",HGTV
+rtp://@239.1.1.210:9506
+#EXTINF:-1 tvg-id="ch00000000000000001631" tvg-name="Blue Ant Extreme" tvg-logo="" group-title="Gen Entertainment",Blue Ant Extreme
+rtp://@239.1.1.134:8778
+#EXTINF:-1 tvg-id="ch00000000000000001295" tvg-name="Animax" tvg-logo="" group-title="Gen Entertainment",Animax
+rtp://@239.1.1.64:8358
+#EXTINF:-1 tvg-id="ch00000000000000001225" tvg-name="INSERT" tvg-logo="" group-title="Gen Entertainment",INSERT
+rtp://@239.1.1.113:8652
+#EXTINF:-1 tvg-id="ch12022916472978935714" tvg-name="FOX Life" tvg-logo="" group-title="Gen Entertainment",FOX Life
+rtp://@239.1.1.171:9000
+#EXTINF:-1 tvg-id="ch00000000000000001211" tvg-name="Lifetime" tvg-logo="" group-title="Gen Entertainment",Lifetime
+rtp://@239.1.1.181:9266
+#EXTINF:-1 tvg-id="ch11022310425411487257" tvg-name="KIX" tvg-logo="" group-title="Gen Entertainment",KIX
+rtp://@239.1.1.81:8460
+#EXTINF:-1 tvg-id="ch00000000000000001559" tvg-name="WARNER SD" tvg-logo="" group-title="Gen Entertainment",WARNER SD
+rtp://@239.1.2.9:8028
+#EXTINF:-1 tvg-id="ch11051116381625038964" tvg-name="AXN" tvg-logo="" group-title="Gen Entertainment",AXN
+rtp://@239.1.1.137:8796
+#EXTINF:-1 tvg-id="ch00000000000000001406" tvg-name="TV5 Monde" tvg-logo="" group-title="Gen Entertainment",TV5 Monde
+rtp://@239.1.1.55:8300
+#EXTINF:-1 tvg-id="ch11051116432558817402" tvg-name="Blue Ant Entertaiment" tvg-logo="" group-title="Gen Entertainment",Blue Ant Entertaiment
+rtp://@239.1.1.141:8820
+#EXTINF:-1 tvg-id="ch12022916453542596403" tvg-name="FOX" tvg-logo="" group-title="Gen Entertainment",FOX
+rtp://@239.1.1.43:8232
+#EXTINF:-1 tvg-id="ch12022916464341653379" tvg-name="FOX Crime" tvg-logo="" group-title="Gen Entertainment",FOX Crime
+rtp://@239.1.1.161:8940
+#EXTINF:-1 tvg-id="ch11051116422632521379" tvg-name="TvN" tvg-logo="" group-title="Gen Entertainment",TvN
+rtp://@239.1.1.135:8784
+#EXTINF:-1 tvg-id="ch12011309501111165834" tvg-name="KBS World" tvg-logo="" group-title="Gen Entertainment",KBS World
+rtp://@239.1.1.167:8976
+#EXTINF:-1 tvg-id="ch00000000000000001171" tvg-name="Aniplus" tvg-logo="" group-title="Gen Entertainment",Aniplus
+rtp://@239.1.1.117:8676
+#EXTINF:-1 tvg-id="ch12011316484429245035" tvg-name="NHK World Premium" tvg-logo="" group-title="Gen Entertainment",NHK World Premium
+rtp://@239.1.1.165:8964
+#EXTINF:-1 tvg-id="ch11022219043956852396" tvg-name="WakuWaku Japan" tvg-logo="" group-title="Gen Entertainment",WakuWaku Japan
+rtp://@239.1.1.75:8424
+#EXTINF:-1 tvg-id="ch11052018351873371252" tvg-name="Star Chinese" tvg-logo="" group-title="Gen Entertainment",Star Chinese
+rtp://@239.1.1.153:8892
+#EXTINF:-1 tvg-id="ch00000000000000001316" tvg-name="KPlus" tvg-logo="" group-title="Gen Entertainment",KPlus
+rtp://@239.1.1.242:9426
+#EXTINF:-1 tvg-id="ch00000000000000001656" tvg-name="Formosa" tvg-logo="" group-title="Gen Entertainment",Formosa
+rtp://@239.1.2.198:9386
+#EXTINF:-1 tvg-id="ch00000000000000001657" tvg-name="CTI Asia" tvg-logo="" group-title="Gen Entertainment",CTI Asia
+rtp://@239.1.2.200:9168
+#EXTINF:-1 tvg-id="ch00000000000000001227" tvg-name="Dunia Lain" tvg-logo="" group-title="Gen Entertainment",Dunia Lain
+rtp://@239.1.1.149:8868
+#EXTINF:-1 tvg-id="ch10122415473360585595" tvg-name="ABC Australia" tvg-logo="" group-title="Gen Entertainment",ABC Australia
+rtp://@239.1.1.33:8172
+#EXTINF:-1 tvg-id="ch11051315500089748094" tvg-name="Arirang" tvg-logo="" group-title="Gen Entertainment",Arirang
+rtp://@239.1.1.147:8856
+#EXTINF:-1 tvg-id="ch00000000000000001132" tvg-name="CCTV4" tvg-logo="" group-title="Gen Entertainment",CCTV4
+rtp://@239.1.1.115:8664
+#EXTINF:-1 tvg-id="ch00000000000000001398" tvg-name="Citra Drama" tvg-logo="" group-title="Gen Entertainment",Citra Drama
+rtp://@239.1.1.44:8238
+#EXTINF:-1 tvg-id="ch00000000000000001633" tvg-name="Citra Dangdut" tvg-logo="" group-title="Gen Entertainment",Citra Dangdut
+rtp://@239.1.1.143:8832
+#EXTINF:-1 tvg-id="ch00000000000000001442" tvg-name="GEM" tvg-logo="" group-title="Gen Entertainment",GEM
+rtp://@239.1.1.86:8154
+#EXTINF:-1 tvg-id="ch00000000000000001443" tvg-name="ONE" tvg-logo="" group-title="Gen Entertainment",ONE
+rtp://@239.1.1.172:9006
+#EXTINF:-1 tvg-id="ch00000000000000001640" tvg-name="Zhejiang International" tvg-logo="" group-title="Gen Entertainment",Zhejiang International
+rtp://@239.1.1.154:8898
+#EXTINF:-1 tvg-id="ch00000000000000001642" tvg-name="Shenzen International" tvg-logo="" group-title="Gen Entertainment",Shenzen International
+rtp://@239.1.1.156:8910
+#EXTINF:-1 tvg-id="ch00000000000000001655" tvg-name="EBC Asia" tvg-logo="" group-title="Gen Entertainment",EBC Asia
+rtp://@239.1.2.196:9406
+#EXTINF:-1 tvg-id="ch00000000000000001472" tvg-name="Kungfu TV" tvg-logo="" group-title="Gen Entertainment",Kungfu TV
+rtp://@239.1.2.40:8206
+#EXTINF:-1 tvg-id="ch00000000000000001594" tvg-name="Chinese Drama" tvg-logo="" group-title="Gen Entertainment",Chinese Drama
+rtp://@239.1.2.10:8306
+#EXTINF:-1 tvg-id="ch11022417344888127904" tvg-name="HBO" tvg-logo="" group-title="MOVIES",HBO
+rtp://@239.1.1.95:8544
+#EXTINF:-1 tvg-id="ch11022413542170223579" tvg-name="HBO Signature" tvg-logo="" group-title="MOVIES",HBO Signature
+rtp://@239.1.1.93:8532
+#EXTINF:-1 tvg-id="ch11022319373768644095" tvg-name="CINEMAX" tvg-logo="" group-title="MOVIES",CINEMAX
+rtp://@239.1.1.87:8496
+#EXTINF:-1 tvg-id="ch11022413524606053898" tvg-name="HBO Hits" tvg-logo="" group-title="MOVIES",HBO Hits
+rtp://@239.1.1.91:8520
+#EXTINF:-1 tvg-id="ch11022413505785864829" tvg-name="HBO Family" tvg-logo="" group-title="MOVIES",HBO Family
+rtp://@239.1.1.89:8508
+#EXTINF:-1 tvg-id="ch12022916441268217960" tvg-name="FOX MOVIES" tvg-logo="" group-title="MOVIES",FOX MOVIES
+rtp://@239.1.1.11:8040
+#EXTINF:-1 tvg-id="ch12022916484352491247" tvg-name="FOX Family" tvg-logo="" group-title="MOVIES",FOX Family
+rtp://@239.1.1.175:9024
+#EXTINF:-1 tvg-id="ch11051116391688925983" tvg-name="FOX Action Movies" tvg-logo="" group-title="MOVIES",FOX Action Movies
+rtp://@239.1.1.125:8724
+#EXTINF:-1 tvg-id="ch11022311430272562653" tvg-name="Thrill" tvg-logo="" group-title="MOVIES",Thrill
+rtp://@239.1.1.83:8472
+#EXTINF:-1 tvg-id="ch11040816085649484980" tvg-name="Celestial Movies" tvg-logo="" group-title="MOVIES",Celestial Movies
+rtp://@239.1.1.97:8556
+#EXTINF:-1 tvg-id="ch00000000000000001561" tvg-name="TVN Movies" tvg-logo="" group-title="MOVIES",TVN Movies
+rtp://@239.1.1.61:8340
+#EXTINF:-1 tvg-id="ch11051116402435705273" tvg-name="Z Bioskop" tvg-logo="" group-title="MOVIES",Z Bioskop
+rtp://@239.1.1.129:8748
+#EXTINF:-1 tvg-id="ch00000000000000001301" tvg-name="Cinema World" tvg-logo="" group-title="MOVIES",Cinema World
+rtp://@239.1.1.189:9108
+#EXTINF:-1 tvg-id="ch00000000000000001312" tvg-name="GALAXY TV" tvg-logo="" group-title="MOVIES",GALAXY TV
+rtp://@239.1.1.184:8778
+#EXTINF:-1 tvg-id="ch00000000000000001231" tvg-name="Bioskop Indonesia" tvg-logo="" group-title="MOVIES",Bioskop Indonesia
+rtp://@239.1.1.226:9332
+#EXTINF:-1 tvg-id="ch11022118325855267865" tvg-name="Flik" tvg-logo="" group-title="MOVIES",Flik
+rtp://@239.1.1.71:8400
+#EXTINF:-1 tvg-id="ch00000000000000001470" tvg-name="IMC" tvg-logo="" group-title="MOVIES",IMC
+rtp://@239.1.2.20:8094
+#EXTINF:-1 tvg-id="ch00000000000000001625" tvg-name="Galaxy Premium" tvg-logo="" group-title="MOVIES",Galaxy Premium
+rtp://@239.1.2.240:9390
+#EXTINF:-1 tvg-id="ch11051116412167808314" tvg-name="Star Chinese Movie" tvg-logo="" group-title="MOVIES",Star Chinese Movie
+rtp://@239.1.1.131:8760
+#EXTINF:-1 tvg-id="ch00000000000000001208" tvg-name="Star Chinese Movie Legend" tvg-logo="" group-title="MOVIES",Star Chinese Movie Legend
+rtp://@239.1.1.151:8880
+#EXTINF:-1 tvg-id="ch00000000000000001318" tvg-name="RED by HBO" tvg-logo="" group-title="MOVIES",RED by HBO
+rtp://@239.1.1.114:8658
+#EXTINF:-1 tvg-id="ch00000000000000001212" tvg-name="BeIN Sport 1" tvg-logo="" group-title="SPORT",BeIN Sport 1
+rtp://@239.1.1.217:9204
+#EXTINF:-1 tvg-id="ch00000000000000001215" tvg-name="BeIN Sport 2" tvg-logo="" group-title="SPORT",BeIN Sport 2
+rtp://@239.1.1.221:9300
+#EXTINF:-1 tvg-id="ch00000000000000001111" tvg-name="Fight Sports" tvg-logo="" group-title="SPORT",Fight Sports
+rtp://@239.1.1.177:9036
+#EXTINF:-1 tvg-id="ch11040816183587547653" tvg-name="Fox Sport" tvg-logo="" group-title="SPORT",Fox Sport
+rtp://@239.1.1.103:8592
+#EXTINF:-1 tvg-id="ch11040816164871901028" tvg-name="Fox Sports 2" tvg-logo="" group-title="SPORT",Fox Sports 2
+rtp://@239.1.1.101:8580
+#EXTINF:-1 tvg-id="ch00000000000000001156" tvg-name="Fox Sports 3" tvg-logo="" group-title="SPORT",Fox Sports 3
+rtp://@239.1.1.53:8292
+#EXTINF:-1 tvg-id="ch00000000000000001437" tvg-name="NBA TV" tvg-logo="" group-title="SPORT",NBA TV
+rtp://@239.1.1.49:8268
+#EXTINF:-1 tvg-id="ch00000000000000001438" tvg-name="EGG" tvg-logo="" group-title="SPORT",EGG
+rtp://@239.1.1.50:8274
+#EXTINF:-1 tvg-id="ch00000000000000001441" tvg-name="GOLF" tvg-logo="" group-title="SPORT",GOLF
+rtp://@239.1.1.140:8814
+#EXTINF:-1 tvg-id="ch00000000000000001614" tvg-name="Champion TV 1" tvg-logo="" group-title="SPORT",Champion TV 1
+rtp://@239.1.2.217:9232
+#EXTINF:-1 tvg-id="ch00000000000000001616" tvg-name="Champion TV 2" tvg-logo="" group-title="SPORT",Champion TV 2
+rtp://@239.1.2.219:9244
+#EXTINF:-1 tvg-id="ch00000000000000001292" tvg-name="Euronews" tvg-logo="" group-title="NEWS",Euronews
+rtp://@239.1.1.193:9132
+#EXTINF:-1 tvg-id="ch11031216573664373345" tvg-name="CNN" tvg-logo="" group-title="NEWS",CNN
+rtp://@239.1.1.105:8604
+#EXTINF:-1 tvg-id="ch11091616193606027929" tvg-name="Bloomberg" tvg-logo="" group-title="NEWS",Bloomberg
+rtp://@239.1.1.199:9168
+#EXTINF:-1 tvg-id="ch00000000000000001600" tvg-name="CNBC" tvg-logo="" group-title="NEWS",CNBC
+rtp://@239.1.1.155:8904
+#EXTINF:-1 tvg-id="ch11022117582641057691" tvg-name="CNA" tvg-logo="" group-title="NEWS",CNA
+rtp://@239.1.1.65:8364
+#EXTINF:-1 tvg-id="ch12021619282053485226" tvg-name="Al Jazeera" tvg-logo="" group-title="NEWS",Al Jazeera
+rtp://@239.1.1.195:9144
+#EXTINF:-1 tvg-id="ch12021619274153733979" tvg-name="France 24" tvg-logo="" group-title="NEWS",France 24
+rtp://@239.1.1.191:9120
+#EXTINF:-1 tvg-id="ch00000000000000001381" tvg-name="NHK World Japan" tvg-logo="" group-title="NEWS",NHK World Japan
+rtp://@239.1.1.236:9390
+#EXTINF:-1 tvg-id="ch12022621272758968846" tvg-name="DWTV" tvg-logo="" group-title="NEWS",DWTV
+rtp://@239.1.1.187:9096
+#EXTINF:-1 tvg-id="ch00000000000000001654" tvg-name="TVBS" tvg-logo="" group-title="NEWS",TVBS
+rtp://@239.1.2.118:9410
+#EXTINF:-1 tvg-id="ch00000000000000001666" tvg-name="TRT World" tvg-logo="" group-title="NEWS",TRT World
+rtp://@239.1.2.84:8296
+#EXTINF:-1 tvg-id="ch00000000000000001669" tvg-name="CNBC Indonesia" tvg-logo="" group-title="NEWS",CNBC Indonesia
+rtp://@239.1.2.92:9490
+#EXTINF:-1 tvg-id="ch00000000000000002005" tvg-name="MNC NEWS" tvg-logo="" group-title="NEWS",MNC NEWS
+rtp://@239.1.1.146:7985
+#EXTINF:-1 tvg-id="ch12060110512806284853" tvg-name="Al Quran Al Kareem" tvg-logo="" group-title="RELIGIOUS",Al Quran Al Kareem
+rtp://@239.1.1.185:9084
+#EXTINF:-1 tvg-id="ch00000000000000001343" tvg-name="Rodja TV" tvg-logo="" group-title="RELIGIOUS",Rodja TV
+rtp://@239.1.1.224:9320
+#EXTINF:-1 tvg-id="ch00000000000000001511" tvg-name="MTATV" tvg-logo="" group-title="RELIGIOUS",MTATV
+rtp://@239.1.2.234:9374
+#EXTINF:-1 tvg-id="ch00000000000000001352" tvg-name="MQTV" tvg-logo="" group-title="RELIGIOUS",MQTV
+rtp://@239.1.1.213:9252
+#EXTINF:-1 tvg-id="ch00000000000000001468" tvg-name="TV9 NU" tvg-logo="" group-title="RELIGIOUS",TV9 NU
+rtp://@239.1.1.150:8874
+#EXTINF:-1 tvg-id="ch00000000000000001377" tvg-name="TvMU" tvg-logo="" group-title="RELIGIOUS",TvMU
+rtp://@239.1.1.170:8994
+#EXTINF:-1 tvg-id="ch00000000000000001624" tvg-name="Tawaf TV" tvg-logo="" group-title="RELIGIOUS",Tawaf TV
+rtp://@239.1.2.236:9366
+#EXTINF:-1 tvg-id="ch00000000000000001486" tvg-name="TV MUI" tvg-logo="" group-title="RELIGIOUS",TV MUI
+rtp://@239.1.2.52:8286
+#EXTINF:-1 tvg-id="ch00000000000000001439" tvg-name="Hope" tvg-logo="" group-title="RELIGIOUS",Hope
+rtp://@239.1.1.78:8442
+#EXTINF:-1 tvg-id="ch00000000000000001454" tvg-name="U Channel" tvg-logo="" group-title="RELIGIOUS",U Channel
+rtp://@239.1.1.220:9522
+#EXTINF:-1 tvg-id="ch00000000000000001597" tvg-name="Ruang Trampil HD" tvg-logo="" group-title="HD Channel",Ruang Trampil HD
+rtp://@239.1.1.111:8640
+#EXTINF:-1 tvg-id="ch00000000000000001479" tvg-name="Usee Sport HD" tvg-logo="" group-title="HD Channel",Usee Sport HD
+rtp://@239.1.2.44:8122
+#EXTINF:-1 tvg-id="ch00000000000000001612" tvg-name="Usee Sports 2 HD" tvg-logo="" group-title="HD Channel",Usee Sports 2 HD
+rtp://@239.1.2.213:9210
+#EXTINF:-1 tvg-id="ch00000000000000001503" tvg-name="SEA TODAY HD" tvg-logo="" group-title="HD Channel",SEA TODAY HD
+rtp://@239.1.2.70:8396
+#EXTINF:-1 tvg-id="ch00000000000000001455" tvg-name="USee Prime HD" tvg-logo="" group-title="HD Channel",USee Prime HD
+rtp://@239.1.1.252:9486
+#EXTINF:-1 tvg-id="ch00000000000000001626" tvg-name="UseePhoto HD" tvg-logo="" group-title="HD Channel",UseePhoto HD
+rtp://@239.1.2.24:8118
+#EXTINF:-1 tvg-id="ch00000000000000001351" tvg-name="NET TV HD" tvg-logo="" group-title="HD Channel",NET TV HD
+rtp://@239.1.1.158:8922
+#EXTINF:-1 tvg-id="ch00000000000000001385" tvg-name="Trans TV HD" tvg-logo="" group-title="HD Channel",Trans TV HD
+rtp://@239.1.1.194:9138
+#EXTINF:-1 tvg-id="ch00000000000000001386" tvg-name="Trans 7 HD" tvg-logo="" group-title="HD Channel",Trans 7 HD
+rtp://@239.1.1.222:9306
+#EXTINF:-1 tvg-id="ch00000000000000001384" tvg-name="CNN Indonesia HD" tvg-logo="" group-title="HD Channel",CNN Indonesia HD
+rtp://@239.1.1.180:9054
+#EXTINF:-1 tvg-id="ch00000000000000001501" tvg-name="SCTV HD" tvg-logo="" group-title="HD Channel",SCTV HD
+rtp://@239.1.2.58:8324
+#EXTINF:-1 tvg-id="ch00000000000000001579" tvg-name="Metro TV HD" tvg-logo="" group-title="HD Channel",Metro TV HD
+rtp://@239.1.2.2:7986
+#EXTINF:-1 tvg-id="ch00000000000000001611" tvg-name="Jowo HD" tvg-logo="" group-title="HD Channel",Jowo HD
+rtp://@239.1.2.212:9208
+#EXTINF:-1 tvg-id="ch00000000000000001675" tvg-name="IndiHome Shopping HD" tvg-logo="" group-title="HD Channel",IndiHome Shopping HD
+rtp://@239.1.2.96:9510
+#EXTINF:-1 tvg-id="ch00000000000000001357" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="HD Channel",NATIONAL GEOGRAPHIC HD
+rtp://@239.1.1.243:9432
+#EXTINF:-1 tvg-id="ch00000000000000001238" tvg-name="Nat Geo Wild HD" tvg-logo="" group-title="HD Channel",Nat Geo Wild HD
+rtp://@239.1.1.207:9216
+#EXTINF:-1 tvg-id="ch00000000000000001426" tvg-name="History HD" tvg-logo="" group-title="HD Channel",History HD
+rtp://@239.1.1.23:8112
+#EXTINF:-1 tvg-id="ch00000000000000001687" tvg-name="GALAXY HD" tvg-logo="" group-title="HD Channel",GALAXY HD
+rtp://@239.1.1.136:8790
+#EXTINF:-1 tvg-id="ch00000000000000001580" tvg-name="CGTN Documentary HD" tvg-logo="" group-title="HD Channel",CGTN Documentary HD
+rtp://@239.1.2.4:7998
+#EXTINF:-1 tvg-id="ch00000000000000001663" tvg-name="Cinema World HD" tvg-logo="" group-title="HD Channel",Cinema World HD
+rtp://@239.1.2.80:8578
+#EXTINF:-1 tvg-id="ch00000000000000001683" tvg-name="GALAXY PREMIUM HD" tvg-logo="" group-title="HD Channel",GALAXY PREMIUM HD
+rtp://@239.1.2.100:9518
+#EXTINF:-1 tvg-id="ch00000000000000001664" tvg-name="Discovery Channel HD" tvg-logo="" group-title="HD Channel",Discovery Channel HD
+rtp://@239.1.2.78:7984
+#EXTINF:-1 tvg-id="ch00000000000000001684" tvg-name="ANIPLUS HD" tvg-logo="" group-title="HD Channel",ANIPLUS HD
+rtp://@239.1.2.104:9526
+#EXTINF:-1 tvg-id="ch00000000000000001221" tvg-name="Disney Channel HD" tvg-logo="" group-title="HD Channel",Disney Channel HD
+rtp://@239.1.1.201:9180
+#EXTINF:-1 tvg-id="ch00000000000000001723" tvg-name="Disney Jr HD" tvg-logo="" group-title="HD Channel",Disney Jr HD
+rtp://@239.1.2.75:8426
+#EXTINF:-1 tvg-id="ch00000000000000001319" tvg-name="DreamWorks HD" tvg-logo="" group-title="HD Channel",DreamWorks HD
+rtp://@239.1.1.234:9222
+#EXTINF:-1 tvg-id="ch00000000000000001963" tvg-name="Cartoon Network HD" tvg-logo="" group-title="HD Channel",Cartoon Network HD
+rtp://@239.1.2.81:8083
+#EXTINF:-1 tvg-id="ch00000000000000001953" tvg-name="BOOMERANGHD" tvg-logo="" group-title="HD Channel",BOOMERANGHD
+rtp://@239.1.1.163:8084
+#EXTINF:-1 tvg-id="ch00000000000000001410" tvg-name="Fashion TV HD" tvg-logo="" group-title="HD Channel",Fashion TV HD
+rtp://@239.1.2.237:9348
+#EXTINF:-1 tvg-id="ch00000000000000001415" tvg-name="Nat Geo People HD" tvg-logo="" group-title="HD Channel",Nat Geo People HD
+rtp://@239.1.2.229:9330
+#EXTINF:-1 tvg-id="ch00000000000000001409" tvg-name="Channel V HD" tvg-logo="" group-title="HD Channel",Channel V HD
+rtp://@239.1.2.235:9342
+#EXTINF:-1 tvg-id="ch00000000000000001458" tvg-name="AFN HD" tvg-logo="" group-title="HD Channel",AFN HD
+rtp://@239.1.2.13:8052
+#EXTINF:-1 tvg-id="ch00000000000000001688" tvg-name="ONE HD" tvg-logo="" group-title="HD Channel",ONE HD
+rtp://@239.1.2.21:8100
+#EXTINF:-1 tvg-id="ch00000000000000001689" tvg-name="GEM HD" tvg-logo="" group-title="HD Channel",GEM HD
+rtp://@239.1.2.18:8082
+#EXTINF:-1 tvg-id="ch00000000000000001582" tvg-name="MTV Live HD" tvg-logo="" group-title="HD Channel",MTV Live HD
+rtp://@239.1.2.16:8070
+#EXTINF:-1 tvg-id="ch00000000000000001619" tvg-name="i Konser HD" tvg-logo="" group-title="HD Channel",i Konser HD
+rtp://@239.1.2.221:9250
+#EXTINF:-1 tvg-id="ch00000000000000001241" tvg-name="FOX Life HD" tvg-logo="" group-title="HD Channel",FOX Life HD
+rtp://@239.1.1.209:9228
+#EXTINF:-1 tvg-id="ch00000000000000001356" tvg-name="FOX HD" tvg-logo="" group-title="HD Channel",FOX HD
+rtp://@239.1.1.247:9440
+#EXTINF:-1 tvg-id="ch00000000000000001317" tvg-name="KPlus HD" tvg-logo="" group-title="HD Channel",KPlus HD
+rtp://@239.1.1.202:9186
+#EXTINF:-1 tvg-id="ch00000000000000001383" tvg-name="NHK World Premium HD" tvg-logo="" group-title="HD Channel",NHK World Premium HD
+rtp://@239.1.1.174:9018
+#EXTINF:-1 tvg-id="ch00000000000000001369" tvg-name="KIX HD" tvg-logo="" group-title="HD Channel",KIX HD
+rtp://@239.1.2.207:9190
+#EXTINF:-1 tvg-id="ch00000000000000001370" tvg-name="TVN HD" tvg-logo="" group-title="HD Channel",TVN HD
+rtp://@239.1.2.211:9202
+#EXTINF:-1 tvg-id="ch00000000000000001413" tvg-name="FOX Crime HD" tvg-logo="" group-title="HD Channel",FOX Crime HD
+rtp://@239.1.2.225:9318
+#EXTINF:-1 tvg-id="ch00000000000000001424" tvg-name="KBS World HD" tvg-logo="" group-title="HD Channel",KBS World HD
+rtp://@239.1.1.13:8052
+#EXTINF:-1 tvg-id="ch00000000000000001432" tvg-name="WakuWaku Japan HD" tvg-logo="" group-title="HD Channel",WakuWaku Japan HD
+rtp://@239.1.1.244:9434
+#EXTINF:-1 tvg-id="ch00000000000000001431" tvg-name="AXN HD" tvg-logo="" group-title="HD Channel",AXN HD
+rtp://@239.1.1.245:9436
+#EXTINF:-1 tvg-id="ch00000000000000001632" tvg-name="Blue Ant Extreme HD" tvg-logo="" group-title="HD Channel",Blue Ant Extreme HD
+rtp://@239.1.1.112:8646
+#EXTINF:-1 tvg-id="ch00000000000000001428" tvg-name="Lifetime HD" tvg-logo="" group-title="HD Channel",Lifetime HD
+rtp://@239.1.1.25:8124
+#EXTINF:-1 tvg-id="ch00000000000000001659" tvg-name="HGTV HD" tvg-logo="" group-title="HD Channel",HGTV HD
+rtp://@239.1.2.34:8178
+#EXTINF:-1 tvg-id="ch00000000000000001560" tvg-name="WARNER HD" tvg-logo="" group-title="HD Channel",WARNER HD
+rtp://@239.1.2.244:9078
+#EXTINF:-1 tvg-id="ch00000000000000001662" tvg-name="BLUE ANT ENT HD" tvg-logo="" group-title="HD Channel",BLUE ANT ENT HD
+rtp://@239.1.2.76:9310
+#EXTINF:-1 tvg-id="ch00000000000000001416" tvg-name="Star Chinese Movies HD" tvg-logo="" group-title="HD Channel",Star Chinese Movies HD
+rtp://@239.1.2.231:9336
+#EXTINF:-1 tvg-id="ch00000000000000001564" tvg-name="TVN Movies HD" tvg-logo="" group-title="HD Channel",TVN Movies HD
+rtp://@239.1.2.72:8408
+#EXTINF:-1 tvg-id="ch00000000000000001331" tvg-name="BeIn Sport 1 HD" tvg-logo="" group-title="HD Channel",BeIn Sport 1 HD
+rtp://@239.1.1.248:9494
+#EXTINF:-1 tvg-id="ch00000000000000001332" tvg-name="BeIn Sport 2 HD" tvg-logo="" group-title="HD Channel",BeIn Sport 2 HD
+rtp://@239.1.1.249:9496
+#EXTINF:-1 tvg-id="ch00000000000000001371" tvg-name="FOX Sports HD" tvg-logo="" group-title="HD Channel",FOX Sports HD
+rtp://@239.1.2.201:9174
+#EXTINF:-1 tvg-id="ch00000000000000001367" tvg-name="FOX Sports 2 HD" tvg-logo="" group-title="HD Channel",FOX Sports 2 HD
+rtp://@239.1.2.203:9180
+#EXTINF:-1 tvg-id="ch00000000000000001368" tvg-name="FOX Sports 3 HD" tvg-logo="" group-title="HD Channel",FOX Sports 3 HD
+rtp://@239.1.2.205:9186
+#EXTINF:-1 tvg-id="ch00000000000000001372" tvg-name="Fight Sports HD" tvg-logo="" group-title="HD Channel",Fight Sports HD
+rtp://@239.1.2.209:9196
+#EXTINF:-1 tvg-id="ch00000000000000001450" tvg-name="NBA TVHD" tvg-logo="" group-title="HD Channel",NBA TVHD
+rtp://@239.1.2.210:9444
+#EXTINF:-1 tvg-id="ch00000000000000001448" tvg-name="GOLF HD" tvg-logo="" group-title="HD Channel",GOLF HD
+rtp://@239.1.2.214:9214
+#EXTINF:-1 tvg-id="ch00000000000000001615" tvg-name="Champion TV 1 HD" tvg-logo="" group-title="HD Channel",Champion TV 1 HD
+rtp://@239.1.2.216:9226
+#EXTINF:-1 tvg-id="ch00000000000000001617" tvg-name="Champion TV 2 HD" tvg-logo="" group-title="HD Channel",Champion TV 2 HD
+rtp://@239.1.2.218:9238
+#EXTINF:-1 tvg-id="ch00000000000000001430" tvg-name="CNN International HD" tvg-logo="" group-title="HD Channel",CNN International HD
+rtp://@239.1.1.246:9438
+#EXTINF:-1 tvg-id="ch00000000000000001670" tvg-name="CNBC Indonesia HD" tvg-logo="" group-title="HD Channel",CNBC Indonesia HD
+rtp://@239.1.2.94:9448
+#EXTINF:-1 tvg-id="ch00000000000000001584" tvg-name="CNA HD" tvg-logo="" group-title="HD Channel",CNA HD
+rtp://@239.1.2.23:8112
+#EXTINF:-1 tvg-id="ch00000000000000001581" tvg-name="Al Jazeera HD" tvg-logo="" group-title="HD Channel",Al Jazeera HD
+rtp://@239.1.2.8:8022
+#EXTINF:-1 tvg-id="ch00000000000000001583" tvg-name="FRANCE 24 HD" tvg-logo="" group-title="HD Channel",FRANCE 24 HD
+rtp://@239.1.2.22:8106
+#EXTINF:-1 tvg-id="ch00000000000000001412" tvg-name="NHK World Japan HD" tvg-logo="" group-title="HD Channel",NHK World Japan HD
+rtp://@239.1.2.239:9354
+#EXTINF:-1 tvg-id="ch00000000000000001411" tvg-name="DW TVHD" tvg-logo="" group-title="HD Channel",DW TVHD
+rtp://@239.1.2.243:9360
+#EXTINF:-1 tvg-id="ch00000000000000001690" tvg-name="IMC HD" tvg-logo="" group-title="HD Channel",IMC HD
+rtp://@239.1.1.145:8844
+#EXTINF:-1 tvg-id="ch00000000000000001326" tvg-name="Flik HD" tvg-logo="" group-title="HD Channel",Flik HD
+rtp://@239.1.1.239:9276
+#EXTINF:-1 tvg-id="ch11022415021026084622" tvg-name="HBO HD" tvg-logo="" group-title="HD Channel",HBO HD
+rtp://@239.1.1.203:9192
+#EXTINF:-1 tvg-id="ch00000000000000001236" tvg-name="HBO Hits HD" tvg-logo="" group-title="HD Channel",HBO Hits HD
+rtp://@239.1.1.215:9264
+#EXTINF:-1 tvg-id="ch00000000000000001419" tvg-name="HBO Signature HD" tvg-logo="" group-title="HD Channel",HBO Signature HD
+rtp://@239.1.2.249:9378
+#EXTINF:-1 tvg-id="ch00000000000000001417" tvg-name="HBO Family HD" tvg-logo="" group-title="HD Channel",HBO Family HD
+rtp://@239.1.2.245:9366
+#EXTINF:-1 tvg-id="ch00000000000000001309" tvg-name="RED HD by HBO" tvg-logo="" group-title="HD Channel",RED HD by HBO
+rtp://@239.1.1.133:8772
+#EXTINF:-1 tvg-id="ch00000000000000001418" tvg-name="Cinemax HD" tvg-logo="" group-title="HD Channel",Cinemax HD
+rtp://@239.1.2.247:9372
+#EXTINF:-1 tvg-id="ch00000000000000001242" tvg-name="Fox Family HD" tvg-logo="" group-title="HD Channel",Fox Family HD
+rtp://@239.1.1.237:9396
+#EXTINF:-1 tvg-id="ch00000000000000001237" tvg-name="FOX MOVIES HD" tvg-logo="" group-title="HD Channel",FOX MOVIES HD
+rtp://@239.1.1.211:9240
+#EXTINF:-1 tvg-id="ch00000000000000001382" tvg-name="Fox Action Movies HD" tvg-logo="" group-title="HD Channel",Fox Action Movies HD
+rtp://@239.1.1.190:9116
+#EXTINF:-1 tvg-id="ch00000000000000001598" tvg-name="HBO DOLBY HD" tvg-logo="" group-title="DOLBY HD",HBO DOLBY HD
+rtp://@239.1.2.114:9428
+#EXTINF:-1 tvg-id="ch00000000000000001599" tvg-name="HBO Signature Dolby HD" tvg-logo="" group-title="DOLBY HD",HBO Signature Dolby HD
+rtp://@239.1.2.116:9404
+#EXTINF:-1 tvg-id="ch00000000000000001603" tvg-name="HBO Hits Dolby" tvg-logo="" group-title="DOLBY HD",HBO Hits Dolby
+rtp://@239.1.2.204:9182
+#EXTINF:-1 tvg-id="ch00000000000000001602" tvg-name="HBO Family Dolby" tvg-logo="" group-title="DOLBY HD",HBO Family Dolby
+rtp://@239.1.2.202:9176
+#EXTINF:-1 tvg-id="ch00000000000000001604" tvg-name="Cinemax Dolby" tvg-logo="" group-title="DOLBY HD",Cinemax Dolby
+rtp://@239.1.2.206:9186
